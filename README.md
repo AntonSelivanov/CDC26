@@ -17,7 +17,7 @@ By leveraging the **$L^2$ residue separation method**, the approach avoids bound
 ### Key Features
 * **Continuous-time Design (`ARE_th1.m`):** Solves coupled Algebraic Riccati Equations (AREs) for output-feedback synthesis while preventing spillover modes.
 * **Sampled-Data LMI Feasibility (`LMI_th1.m`):** Constructs and solves linear matrix inequality (LMI) conditions derived via a tailored dominant-mode Lyapunov–Krasovskii functional (LKF).
-* **Maximum Sampling Period Calculation (`example.m`):** Evaluates stability and automatically searches for the maximum allowable sampling period $h_{\max}$ via bisection.
+* **Maximum Sampling Period Calculation (`example.m`):** Evaluates stability for a given sampling period
 
 ---
 
