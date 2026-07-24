@@ -8,7 +8,7 @@ MATLAB code accompanying the paper:
 
 ---
 
-### 🚀 Key Features
+### 🚀 File Description
 * **`ARE_th1.m`:** Solves coupled Algebraic Riccati Equations (AREs) for continuous-time output-feedback synthesis.
 * **`LMI_th1.m`:** Solves linear matrix inequalities (LMIs) to verify stability under sample-and-hold actuation for a given sampling period.
 * **`example.m`:** Runs the full synthesis and analysis for the paper's numerical example.
